@@ -1,0 +1,3 @@
+variavel,descricao-pt,descricao-en,tipo,subtipo
+BuildingType,Classificação de tipo de edifício de alto nível da cidade de Seattle.,City of Seattle high level building type classification.,quanlitative,nominal
+Neighborhood,Área de vizinhança da propriedade definida pelo Departamento de Bairros da Cidade de Seattle.,Property neighborhood area defined by the City of Seattle Department of Neighborhoods.,quantitative,continua

@@ -1,0 +1,6 @@
+variavel,descricao-pt,descricao-en,tipo,subtipo
+DataYear,Ano civil (janeiro-dezembro) representado por cada registro de dados.,Calendar year (January-December) represented by each data record.,quantitative,discreet
+YearBuilt,Ano em que um imóvel foi construído.,Year in which a property was constructed.,quantitative,discreet
+CouncilDistrictCode,Propriedade do distrito do conselho da cidade de Seattle.,Property City of Seattle council district.,quantitative,discreet
+NumberofFloors,Número total de andares do edifício.,Total number of floors in the building.,quantitative,discreet
+NumberofBuildings,Número total de estruturas na propriedade.,Total number of structures on the property.,quantitative,discreet
